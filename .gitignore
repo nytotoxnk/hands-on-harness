@@ -1,0 +1,11 @@
+# Instructor Playbook (keep local only)
+**/WORKSHOP_PLAYBOOK.md
+WORKSHOP_PLAYBOOK.md
+
+# Python / Test caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
